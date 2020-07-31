@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="150" started-at="2020-07-31T13:57:48 IST" finished-at="2020-07-31T13:57:48 IST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="150" started-at="2020-07-31T13:57:48 IST" finished-at="2020-07-31T13:57:48 IST">
+      <class name="SeleniumPractice.SeleniumTest">
+        <test-method status="PASS" signature="browserAutomation()[pri:0, instance:SeleniumPractice.SeleniumTest@14acaea5]" name="browserAutomation" duration-ms="0" started-at="2020-07-31T13:57:48 IST" finished-at="2020-07-31T13:57:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserAutomation -->
+        <test-method status="PASS" signature="elemenstUI()[pri:0, instance:SeleniumPractice.SeleniumTest@14acaea5]" name="elemenstUI" duration-ms="1" started-at="2020-07-31T13:57:48 IST" finished-at="2020-07-31T13:57:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elemenstUI -->
+      </class> <!-- SeleniumPractice.SeleniumTest -->
+      <class name="SeleniumPractice.AppiumTest">
+        <test-method status="PASS" signature="IOSApps()[pri:0, instance:SeleniumPractice.AppiumTest@26be92ad]" name="IOSApps" duration-ms="10" started-at="2020-07-31T13:57:48 IST" finished-at="2020-07-31T13:57:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSApps -->
+        <test-method status="PASS" signature="NativeAPPAndroid()[pri:0, instance:SeleniumPractice.AppiumTest@26be92ad]" name="NativeAPPAndroid" duration-ms="1" started-at="2020-07-31T13:57:48 IST" finished-at="2020-07-31T13:57:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAPPAndroid -->
+      </class> <!-- SeleniumPractice.AppiumTest -->
+      <class name="SeleniumPractice.RESTAPITest">
+        <test-method status="PASS" signature="deleteTwitter()[pri:0, instance:SeleniumPractice.RESTAPITest@224edc67]" name="deleteTwitter" duration-ms="1" started-at="2020-07-31T13:57:48 IST" finished-at="2020-07-31T13:57:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+        <test-method status="PASS" signature="postJira()[pri:0, instance:SeleniumPractice.RESTAPITest@224edc67]" name="postJira" duration-ms="0" started-at="2020-07-31T13:57:48 IST" finished-at="2020-07-31T13:57:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+      </class> <!-- SeleniumPractice.RESTAPITest -->
+      <class name="SeleniumPractice.AppTest">
+        <test-method status="PASS" signature="shouldAnswerWithTrue()[pri:0, instance:SeleniumPractice.AppTest@4c70fda8]" name="shouldAnswerWithTrue" duration-ms="1" started-at="2020-07-31T13:57:48 IST" finished-at="2020-07-31T13:57:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldAnswerWithTrue -->
+      </class> <!-- SeleniumPractice.AppTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
